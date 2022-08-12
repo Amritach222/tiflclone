@@ -1,0 +1,88 @@
+{
+    "objectives":[
+        "Manage Private Equity Fund","Manage Venture Capital Fund","Manage Hedge Fund","Manage fund for Infrastructure Development & Entrepreneurship","Manage fund for Information Technologies Sector"
+    ],
+    "about":{
+        "panchase":"Panchase Cable Car and Tourism is a limited company registered with the Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2075.04.02 BS under registration No. 1918199/74/75 having its registered office at Pokhara Municipality, Sabhagriha Chowk -8, Kaski. It is the president company of Bandipur Cable Car and Tourism Limited.",
+        "bandipur":"Bandipur Cable Car and Tourism Limited is a sovereign investment company managing a diverse portfolio of assets in the tourism sector. It is registered with the Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2069.09.22 BS under registration No. 108644/069/070 having its registered office at Bandipur Rural Municipality, Bandipur -4, Tanahun formerly Bandipur VDC Ward no.3, Tanahun. Similarly, the company is also registered with the Tax on 2069.11.13 B.S (24.02.2013 AD) under PAN No 600918925. The company is also registered with VAT on 2075.07.19 B.S. (05.11.2018 AD). The registration and renewals and VAT filing of the company are up to date. The corporate/administrative office of the company is located at Sabhagriha Chowk-8, New Road, Pokhara. The construction of the Bandipur project has been managed by the Holding Company i.e RKD Holdings Limited.",
+        "biz":"BizBazar is a public limited subsidiary company of RKD group established with a vision to digitize the Nepalese market. We are here to establish a well-governed digital friendly platform such that every player in the marketplace can have their share to achieve a sustainable goal. We believe every scattered business and service should be consolidated in one big single platform so that they can work digitally and independently to expand their business reach and goals. Bizbazar IT wings a team of IT experts and engineers with extensive experience in designing and implementing various solutions for small to large scale enterprises. BizBazar IT focuses on providing solutions that manage & improves business processes and equip businesses to increase operational efficiency and growth."
+    },
+    "directors":[
+        {"name":"Ram Chandra Sharma", "post":"Chairman", "fb":"", "image":"chairman.webp","rolestate":false,"role":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum"},
+         {"name":"Ganesh Raj Gautam", "post":"Director", "fb":"", "image":"ganesh.webp","rolestate":false},
+         {"name":"Radha Dhakal", "post":"Director", "fb":"", "image":"radha-mam.webp","rolestate":false},
+         {"name":"Ambar Sapkota", "post":"Director", "fb":"", "image":"ambar.webp","rolestate":false},
+         {"name":"Mahesh Kumar Sigdel", "post":"Director", "fb":"", "image":"mahesh.webp","rolestate":false},
+         {"name":"Dr Nanda Sharma", "post":"Director", "fb":"", "image":"nanda-sir.webp","rolestate":false},
+         {"name":"Santosh Adhikari", "post":"Director", "fb":"", "image":"san.webp","rolestate":false}
+
+
+    ],
+    "immidiateprogram":["Complete the chain of the company. At least 51% investment in its subsidiary companies.",
+        "Collect the agreed share amount from the shareholder.",
+        "Completing all the legal formalities.",
+        "Manage the financial operation & cash flow of RKD Group"],
+
+    "targetprogram":["Disposal of internal debentures",
+        "To increase effective investment in share market",
+        "Taking a bank loan",
+        "To invest as equity in productive and innovative start-up companies",
+        "As a destination: Company will guarantee the absolute financial management and complete the plannings of Bandipur Cable Car."],
+    "strategies":["Company will invest in decisive equity for company’s strategic work direction and tourism technology to maintain financial balance in the country.",
+            "This is going to be company’s main objective and goal and for this, the company will pave the way for formulating a 20-year strategy plan."],
+            "imp_lists": [
+                "Company will organize private equity fund, venture Capital, hedge fund and in addition manage capital for attracting company to Non-banking sectors.",
+                "Accordingly, form a committee to manage Capital and fund which will be enough for the company",
+                "After this, it will expedite its activities across the country at a fast pace."
+              ],
+              "benefits": [
+                "शेयरधनीलाई त्रिपल बहार । शेयर पनि, बोनस सोरुप जग्गा पनि, निर्जीवन बिमा पनि ।",
+                "जीवनस्तर परिवर्तनको ग्यारेन्टी ।",
+                "कम्पनीको आफ्नै अर्थतन्त्र र आफ्नै बजार ।",
+                "पूर्ण विश्‍वास र भरोसाको उच्च मनोबलयुक्त वातावरणको निर्माण ।",
+                "दिर्घकालिन रणनीतिक व्यापारिक लाभ ।",
+                "व्यापारिक नीति आविस्कारको नेतृत्त्व ।",
+                "ख्याति ।"
+              ],
+              "plans":[
+                "स्थान – लुम्बिनी प्रदेश, रूपन्देही जिल्ला, सियारी गाउँपालिका वडा नं ६ भैरहवा अन्तर्राष्टिय विमानस्थल र लुम्बिनीको बिचमा",
+                "परिमाण – १६ बिगाहा",
+                "कम्पनीको उपस्थिति – स्तरीय तारे होटल स्थापना"
+              ],
+              "summaries":[
+                "शेयरधनीले मात्र सुविधाको उपभोग गर्न पाउने",
+                "एक प्लटमा २ कट्ठा जग्गा, २ कट्ठामा १०-१२ धूरका ६ वटा घडेरी, बाटो, नाली, बिजुली पोल लगायत विकास गर्दाको खर्च कटाएर १३ लाखमा एउटा शुद्ध घडेरी",
+                "जत्ति मूल्यको जग्गा, त्यत्ति रकम बराबरको शेयर तथा बोनस",
+                "कम्पनीको स्तरीय तारे होटलको नजिक",
+                "कम्पनी र शेयरधनी दुबैका लागि फाइदा",
+                "सबैले चाहेर तत्काल नपाइने, First come First Service"
+              ],
+              "schemes":[
+                "क. लगानीका अनुसार क्लब वाइज RBC १ करोडदेखि माथि १ करोड ५० लाखसम्म यो सुविधा लिन सकिन्छ । अधिकतम लगानीलाई अधिकतम हिसाब मानेर अन्यको निर्धारण गरिनेछ ।",
+                "ख. RBDC ६० लाखदेखि ८० लाखसम्म अधिकतम लगानीलाई अधिकतम हिसाब मानेर अन्यको निर्धारण गरिनेछ ।",
+                "ग. RMC ४० लाखदेखि ५० सम्म अधिकतम लगानीलाई अधिकतम हिसाब मानेर अन्यको निर्धारण गरिनेछ ।",
+                "घ. RMDC २५ लाखदेखि ३५ सम्म अधिकतम लगानीलाई अधिकतम हिसाब मानेर अन्यको निर्धारण गरिनेछ ।",
+                "ङ RSMC १० लाखसम्म अधिकतम लगानीलाई अधिकतम हिसाब मानेर अन्यको निर्धारण गरिनेछ ।",
+                "च. RLC जति शेयर त्यतिनै सुविधाको हिसाब गरेर निर्धारण गरिनेछ ।",
+                "छ. विशेषः कार्यकारी निर्देशकको हकमा शेयर जतिसुकै भए पनि न्यूनतम १ करोडसम्मको सुविधा रहनेछ ।"
+              ],
+              "swpfagenda":[
+                "स्किम लागु गर्नका लागि टुरिजम इन्भेष्टमेन्ट फण्डले कर्जा उपलब्ध गराउँदछ । जसको व्याजदर जम्मा ६.५% राखी सरदरमा किस्ता तालिकासमेत उपलब्ध गराउँदछ । कर्जा १० वर्षे रहनेछ ।",
+                "कर्जा रकम आरकेडी रियल स्टेटमा शेयर लगानी गरिनेछ । त्यो शेयर टुरिजममा धितो बन्धक रहनेछ ।",
+                "१०% डाउन पेमेन्ट भएपछि आरकेडीमार्फत् कवोल एकमुष्ठ रकमको नै वोनसको अग्राधिकार दर १०% कायम गरिनेछ ।",
+                "वार्षिक रूपमा १०% वोनस क्युमुलेटिभ हुँदै क्एँ मा जम्मा गरिनेछ । त्यो फण्ड टुरिजम इन्भेष्टमेन्ट फण्डमा खडा गरिनेछ ।",
+                "वोनस १०% पाउने गरी अग्राधिकार सुनिश्चित गरिएको छ । कम्पनीलाई कम नाफा भए पनि बढी नाफा भए पनि वोनस दर एकै हुनेछ ।",
+                "५ वर्षसम्म सबै वोनस SPF मा सञ्चित रहनेछ । ५ वर्ष पछाडि आएको वोनसको ५% नगद शेयरधनीले उपयोग गर्न सक्नेछन्। ५% SPF मा नै जम्मा हुनेछ ।",
+                "१० वर्षसम्म यो फण्डमा वोनस जम्मा भैरहनेछ । त्यो अवधि सम्म निजले फण्ड प्रयोग गर्न सक्ने छैनन् ।",
+                "दुर्भाग्यवश बिचमा शेयरधनीको दुर्घटनामा परी मृत्यु भएमा अघिल्ला सबै किस्ता र व्याज मिनाहा हुन्छ । कम्पनीको शेयर मार्फत परिवारले वोनस प्राप्त गरीरहन सक्नेछन् ।",
+                "कम्पनीको ऋण भुक्तान गरिसकेपछि शेयरको प्रकारसमेत परिवर्तन गरिनेछ । जुनबाट कम्पनीले वितरण गर्ने वोनस अन्य शेयर सरह प्राप्त गरिनेछ ।",
+                "शेयरधनीको शेखपछि हकवालाले अन्य सरह सेवा सुविधा पाइरहने छन् ।",
+                "शेयरधनीले कर्जाको किस्ता तिर्न नसकेमा ब्रेक गर्न सक्नेछन्। ब्रेक गर्दा जति रकम भुक्तान गरेको छ त्यतिनै मात्र शेयर राखी बाँकी शेयर लिलामी गरिनेछ । यस्तो अवस्थामा जति रकम भुक्तान भएको छ त्यसलाई आधार मानी भुक्तान गरिसकेको वोनसमा बढी हुन जाने रकम जफत गरिनेछ ।",
+                "स्वस्थ ढंगले कारोवार गरी १० वर्षमा ऋण भुक्तान गरेपछि कम्पनीले प्रोत्साहन र भविष्यको सुरक्षाका लागि ऋण लिएकोरकम बराबर नै थप एकमुष्ठ शेयर रकम बराबर कम्पनीको शेयर दिनेछ ।",
+                "यो सुविधामार्फत् शेयरधनीको कम्पनीमा स्किम प्याकेजको दोब्बर नेटवर्थ प्राप्त गर्ने सुनिश्चित आधार शेयरधनीलाई दिनेछ ।",
+                "समय सापेक्ष स्किम अझ परिस्कृत गर्दै लगिनेछ । विवादको अन्तिम निर्णय गर्ने सर्वाधिकार कम्पनीमा रहनेछ ।"
+              ]
+
+    
+    
+}
